@@ -1,0 +1,38 @@
+{
+    "1": {
+        "id_producto": "1",
+        "nombre": "TELEVISOR",
+        "marca": "JVL",
+        "precio": 5200000.0,
+        "stock": 5,
+        "garantia": 1,
+        "pantalla_pulgadas": 52
+    },
+    "2": {
+        "id_producto": "2",
+        "nombre": "HELADERA",
+        "marca": "PATRIC",
+        "precio": 650000.0,
+        "stock": 10,
+        "garantia": 1,
+        "capacidad": 300
+    },
+    "3": {
+        "id_producto": "3",
+        "nombre": "TELEVISOR",
+        "marca": "PHILCO",
+        "precio": 950000.0,
+        "stock": 5,
+        "garantia": 1,
+        "pantalla_pulgadas": 32
+    },
+    "4": {
+        "id_producto": "4",
+        "nombre": "HELADERA",
+        "marca": "MIDAS",
+        "precio": 95000.0,
+        "stock": 10,
+        "garantia": 1,
+        "capacidad": 200
+    }
+}
